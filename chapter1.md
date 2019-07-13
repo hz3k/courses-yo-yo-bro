@@ -16,7 +16,7 @@ skills: 2
 This is an example exercise.
 
 `@instructions`
-
+You are at the bottom of everything. `asdf` is a variable.
 
 `@hint`
 
