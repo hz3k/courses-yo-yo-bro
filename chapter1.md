@@ -41,3 +41,16 @@ You are at the bottom of everything. `asdf` is a variable.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 8c52dc981a
+xp: 50
+```
+
+`@projector_key`
+589b1db5473417253601fd93806e53b2
